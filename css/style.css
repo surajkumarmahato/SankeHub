@@ -4,8 +4,8 @@
     margin: 0;
 }
 
-.body{
-    /* background: url("../img/bg.jpg"); */
+.body
+{
     background-color: rgb(107, 238, 107);
     min-height: 100vh;
     display: flex;
@@ -13,7 +13,8 @@
     align-items: center;
 }
 
-#scoreBox{
+#scoreBox
+{
     position: absolute;
     top: 9px;
     right: 180px;
@@ -22,7 +23,8 @@
     font-family: 'New Tegomin', serif;
 }
 
-#hiscoreBox{
+#hiscoreBox
+{
     position: absolute;
     top: 59px;
     right: 140px;
@@ -31,7 +33,8 @@
     font-family: 'New Tegomin', serif;
 }
 
-#board{
+#board
+{
     background: linear-gradient(rgb(255, 255, 255), rgb(60, 60, 60));
     width: 90vmin;
     height: 92vmin;
